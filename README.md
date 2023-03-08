@@ -10,5 +10,10 @@ Esse projeto (chamado Search Users) contém um campo de pesquisa no qual você p
 
 ## Deploy
 
-Em andamento...
+Teste por esse link: https://project-searchusers.vercel.app/
+
+## Visualização 
+
+![image](https://user-images.githubusercontent.com/103958460/223773734-54c402c5-ca17-4258-b3df-9cfbebc88238.png)
+
 

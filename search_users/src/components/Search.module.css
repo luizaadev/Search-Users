@@ -10,11 +10,6 @@
     margin-bottom: 1.5rem;
 }
 
-.search p {
-    color: #574237;
-    font-weight: bold;
-}
-
 .search_container {
     display: flex;
     gap: 0.5rem;
